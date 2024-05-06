@@ -1,3 +1,4 @@
+// THIS IS A MODDED VERSION OF ONEKO BY renzz00. DO NOT EDIT UNLESS YOU KNOW WHAT YOU ARE DOING!
 // oneko.js: https://github.com/adryd325/oneko.js
 
 (function oneko() {
