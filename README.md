@@ -11,6 +11,8 @@ before you start rambling about how it dosent work, **YOU NEED TO ENABLE ONEKO I
 
 * next, use ctrl+f to bring up the search menu. inside of it, type oneko. near some of the oneko names, you should find this link: **https://raw.githubusercontent.com/adryd325/oneko.js/8fa8a1864aa71cd7a794d58bc139e755e96a236c/oneko.js**
 
-* next, replace that link with this link here: **https://raw.githubusercontent.com/renzz00/oneko-modded/main/oneko-MODDED.js**
+* next, replace that link with this link here: **https://raw.githubusercontent.com/renzz00/oneko-modded/main/oneko-MODDED.js** then save the new js file as renderer.js
+
+* for the last step, restart discord with ctrl+r
 
 ### DONE!
