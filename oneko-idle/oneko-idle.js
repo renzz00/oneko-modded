@@ -4,8 +4,8 @@
 (function oneko() {
     const nekoEl = document.createElement("div");
   
-    let nekoPosX = 355;
-    let nekoPosY = 965;
+    let nekoPosX = 0;
+    let nekoPosY = 0;
   
     let mousePosX = 0;
     let mousePosY = 0;
