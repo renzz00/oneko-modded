@@ -103,8 +103,8 @@
     document.body.appendChild(nekoEl);
 
     document.addEventListener("mousemove", function (event) {
-      mousePosX = 0;
-      mousePosY = 0;
+      mousePosX = 360;
+      mousePosY = 970;
     });
     
     window.requestAnimationFrame(onAnimatonFrame);
