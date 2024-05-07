@@ -6,3 +6,4 @@
 * color: your choice
 * speed: (the base speed is 10, so give me speed values in multiples of 10: 10, 20, 30, etc.)
 * custom dark client theme: yes or no
+* oneko idle: yes or no
