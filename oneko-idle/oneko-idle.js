@@ -1,10 +1,6 @@
 // THIS IS A MODDED VERSION OF ONEKO BY renzz00. DO NOT EDIT UNLESS YOU KNOW WHAT YOU ARE DOING!
 // oneko.js: https://github.com/adryd325/oneko.js
 
-window.onload = function(){
-  draggable('one');
-};
-
 (function oneko() {
     const nekoEl = document.createElement("div");
   
@@ -238,28 +234,3 @@ window.onload = function(){
   
     init();
   })();
-
-var dragObj = null;
-function draggable(id)
-{
-    var obj = document.getElementById(id);
-    obj.style.position = "absolute";
-    obj.onmousedown = function(){
-            dragObj = obj;
-    }
-}
-
-document.onmouseup = function(e){
-    dragObj = null;
-};
-
-document.onmousemove = function(e){
-    var x = e.pageX;
-    var y = e.pageY;
-
-    if(dragObj == null)
-        return;
-
-    dragObj.style.left = x +"px";
-    dragObj.style.top= y +"px";
-};
