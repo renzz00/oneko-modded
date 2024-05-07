@@ -103,7 +103,7 @@
       document.body.appendChild(nekoEl);
   
       document.addEventListener("mousemove", function (event) {
-        mousePosX = 50;
+        mousePosX = 200;
         mousePosY = 40;
       });
       
