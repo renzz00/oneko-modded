@@ -104,7 +104,7 @@
   
       document.addEventListener("mousemove", function (event) {
         mousePosX = 200;
-        mousePosY = 40;
+        mousePosY = 25;
       });
       
       window.requestAnimationFrame(onAnimatonFrame);
