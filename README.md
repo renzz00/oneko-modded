@@ -4,7 +4,7 @@ this mod is **not affiliated to adryd325 or vending.machine**, its just a little
 
 ### THIS MOD ONLY WORKS FOR WINDOWS USERS. i will find out how to use on mac aswell in some time.
 
-if you want a custom version of oneko, see the requirements [here.](https://github.com/renzz00/oneko-modded/blob/main/custom-oneko.md)
+if you want a custom version of oneko, see the requirements [here.](https://github.com/renzz00/oneko-modded/blob/main/misc/custom-oneko.md)
 # how to install oneko modded
 
 before you start rambling about how it dosent work, **YOU NEED TO ENABLE ONEKO IN VENCORD PLUGINS BEFORE THIS.**
@@ -13,7 +13,7 @@ before you start rambling about how it dosent work, **YOU NEED TO ENABLE ONEKO I
 
 * next, use ctrl+f to bring up the search menu. inside of it, type oneko. near some of the oneko names, you should find this link: **https://raw.githubusercontent.com/adryd325/oneko.js/8fa8a1864aa71cd7a794d58bc139e755e96a236c/oneko.js**
 
-* next, replace that link with this link here: **https://raw.githubusercontent.com/renzz00/oneko-modded/main/oneko-MODDED.js** then save the new js file as renderer.js
+* next, replace that link with the mod of your choice [here.](https://github.com/renzz00/oneko-modded/blob/main/misc/links.md) then save the new js file as renderer.js
 
 * for the last step, restart discord with ctrl+r
 
