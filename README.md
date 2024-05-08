@@ -7,7 +7,7 @@ this mod is **not affiliated to adryd325 or vending.machine**, its just a little
 if you want a custom version of oneko, see the requirements [here.](https://github.com/renzz00/oneko-modded/blob/main/misc/custom-oneko.md)
 # how to install oneko modded
 
-before you start rambling about how it dosent work, **YOU NEED TO ENABLE ONEKO IN VENCORD PLUGINS BEFORE THIS.**
+before you start rambling about how it dosent work, **YOU NEED TO ENABLE ONEKO IN VENCORD PLUGINS BEFORE THIS.** also, your custom oneko will reset every time vencord updates.
 
 * to install, you need to go into the renderer.js file inside of your Vencord installation. If you cannot find it, try going to your vencord installation, then dist, then open it inside of a code editor like vs code, or notepad if you do not have one.
 
