@@ -8,8 +8,9 @@ if you want a custom version of oneko, see the requirements [here.](https://gith
 ## how to install oneko modded
 
 before you start rambling about how it dosent work, **YOU NEED TO ENABLE ONEKO IN VENCORD PLUGINS BEFORE THIS.** also, your custom oneko will reset every time vencord updates.
+### if you want custom themes, refer to the [full documentation.](https://github.com/renzz00/oneko-modded/blob/main/misc/full-docs.md)
 
-* to install, you need to go into the renderer.js file inside of your Vencord installation. If you cannot find it, try going to your vencord installation, then dist, then open it inside of a code editor like vs code, or notepad if you do not have one.
+* to install, you need to go into the renderer.js file inside of your vencord installation. If you cannot find it, try going to your vencord installation, then dist, then open it inside of a code editor like vs code, or notepad if you do not have one.
 
 * next, use ctrl+f to bring up the search menu. inside of it, type oneko. near some of the oneko names, you should find this link: **https://raw.githubusercontent.com/adryd325/oneko.js/8fa8a1864aa71cd7a794d58bc139e755e96a236c/oneko.js**
 
@@ -18,3 +19,4 @@ before you start rambling about how it dosent work, **YOU NEED TO ENABLE ONEKO I
 * for the last step, restart discord with ctrl+r
 
 ### DONE!
+
