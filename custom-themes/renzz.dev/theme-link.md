@@ -1,6 +1,6 @@
 # renzz.dev's custom oneko skin link
 
-https://raw.githubusercontent.com/renzz00/oneko-modded/main/custom-themes/renzz.dev/renzz.dev-theme.gif
+https://raw.githubusercontent.com/renzz00/oneko-modded/main/custom-themes/renzz.dev/theme.gif
 
 preview:
 
