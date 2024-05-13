@@ -2,7 +2,7 @@
 
 ### the documentation for installing and fixing oneko MODDED.
 
-## how to install oneko modded
+## how to install oneko modded script
 
 * to install, you need to go into the renderer.js file inside of your vencord installation. if you cannot find it, try going to your vencord installation, then dist, then open it inside of a code editor like vs code, or notepad if you do not have one.
 
