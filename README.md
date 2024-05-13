@@ -5,7 +5,7 @@ this mod is **not affiliated to adryd325 or vending.machine**, its just a little
 ### THIS MOD ONLY WORKS FOR WINDOWS USERS. i will find out how to use on mac aswell in some time.
 
 if you want a custom version of oneko, see the requirements [here.](https://github.com/renzz00/oneko-modded/blob/main/misc/custom-oneko.md)
-# how to install oneko modded
+## how to install oneko modded
 
 before you start rambling about how it dosent work, **YOU NEED TO ENABLE ONEKO IN VENCORD PLUGINS BEFORE THIS.** also, your custom oneko will reset every time vencord updates.
 
