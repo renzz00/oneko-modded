@@ -16,7 +16,7 @@
 
 * to install custom themes, find the renderer.js file inside of your vencord installation. if you cannot find it, try going to your vencord installation, then dist, then open it inside of a code editor like vs code, or notepad if you do not have one.
 
-* next, use ctrl+f to bring up the search menu, and search for oneko. once you find it, there should be 2 links. we are looking for this one: **https://raw.githubusercontent.com/adryd325/oneko.js/main/oneko.gif**
+* next, use ctrl+f to bring up the search menu, and search for oneko. once you find it, there should be 2 links. we are looking for this one: **https://raw.githubusercontent.com/adryd325/oneko.js/14bab15a755d0e35cd4ae19c931d96d306f99f42/oneko.gif**
 
 * after, replace that with one of the custom preset links [here](https://github.com/renzz00/oneko-modded/blob/main/presets/preset-links.md) and save the new file as renderer.js in the same "dist" folder.
 
