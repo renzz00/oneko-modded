@@ -26,7 +26,7 @@
 
 ## fixing oneko modded
 
-### from my understanding, no issues are prominent, so this is empty. if you encounter issues, dm me on discord (@renzz.dev) and tell me the issue. i MIGHT be able to help you solve the problem.
+### from my understanding, no issues are prominent, so this is empty. if you encounter issues, dm me on discord (@rxve.00) and tell me the issue. i MIGHT be able to help you solve the problem.
 
 
   
