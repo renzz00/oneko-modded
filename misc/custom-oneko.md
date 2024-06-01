@@ -1,6 +1,6 @@
 # custom oneko
 ### PLEASE CHECK FOR CUSTOM PRESETS IN THE "presets" FOLDER IN THE REPOSITORY BEFORE GOING HERE.
-### to get a custom oneko, you can contact me on discord (renzz.dev) with the following details in this format:
+### to get a custom oneko, you can contact me on discord (@rxve.00) with the following details in this format:
 
 * 2x size: yes or no
 * color: your choice
