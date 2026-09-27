@@ -1,3 +1,6 @@
+# **(STALE REPOSITORY, DO NOT USE THIS IF YOU WANT TO MOD ONEKO FOR YOURSELF.)
+It's okay to use as a reference, but don't take this as the gospel.
+
 # oneko - MODDED
 
 this mod is **not affiliated to adryd325 or vending.machine**, its just a little project i wanted to do so i can dive into the way javascript is made.
